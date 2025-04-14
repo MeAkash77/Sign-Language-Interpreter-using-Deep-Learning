@@ -8,7 +8,6 @@
 
 # Sign Language Interpreter using Deep Learning
 > A sign language interpreter using live video feed from the camera. 
-The project was completed in 24 hours as part of HackUNT-19, the University of North Texas's annual Hackathon. You can view the project demo on [YouTube](https://link.harshgupta.com/acd72). 
 
 ## Table of contents
 * [General info](#general-info)
@@ -37,9 +36,6 @@ We wanted to make it easy for 70 million deaf people across the world to be inde
 
 
 ![Example screenshot](./img/demo3.gif)
-
-
-**The entire demo of the project can be found on [YouTube](https://link.harshgupta.com/acd72).**
 
 
 ## Screenshots
@@ -164,21 +160,3 @@ Features that can be added:
 * Increase the vocabulary of our model
 * Incorporate feedback mechanism to make the model more robust
 * Add more sign languages
-
-## Status
-Project is: _finished_. Our team was the winner of the UNT Hackaton 2019. You can find the our final submission post on [devpost](https://rebrand.ly/754c5). 
-
-## Contact
-Created by me with my teammates [Siddharth Oza](https://github.com/siddharthoza), [Ashish Sharma](https://github.com/ashish1993utd), and [Manish Shukla](https://github.com/Manishms18).
-
-Subscribe to my [newsletter](https://upswing.substack.com/) and unlock the secrets to becoming a 10X Data Scientist! 
-
-If you loved what you read here and feel like we can collaborate to produce some exciting stuff, or if you
-just want to shoot a question, please feel free to connect with me on <a href="hello@harshgupta.com" target="_blank">email</a>, 
-<a href="https://link.harshgupta.com/c9a5b" target="_blank">LinkedIn</a>, or 
-<a href="https://link.harshgupta.com/34c63" target="_blank">Twitter</a>. 
-My other projects can be found [here](https://link.harshgupta.com/85f2e).
-
-[![GitHub](https://img.shields.io/github/followers/harshbg.svg?style=social)](https://link.harshgupta.com/e144a)
-[![Twitter](https://img.shields.io/twitter/follow/harshbg.svg?style=social)](https://link.harshgupta.com/34c63)
-
